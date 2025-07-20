@@ -2,7 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
   background-color: #ffffff;
 }
@@ -36,7 +36,7 @@ a {
   font-style: Bold;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
@@ -50,7 +50,7 @@ a {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-decoration: underline;
 }
 .header-nav-link:hover,
@@ -65,7 +65,7 @@ a {
 .header-address-link {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .header-address-link:hover,
@@ -79,13 +79,13 @@ a {
 }
 .page-title {
   text-align: center;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .main-section-button {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
   background-color: #4d5ae5;
@@ -103,12 +103,12 @@ a {
 .features-list-title {
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .features-list-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 
 .ourteam {
@@ -118,7 +118,7 @@ a {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -130,19 +130,19 @@ a {
 .ourteam-list-title {
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .urteam-list-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .portfolio {
 }
 .portfolio-title {
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .portfolio-list {
@@ -151,12 +151,12 @@ a {
 .portfolio-list-title {
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .portfolio-list-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 
 .footer {
@@ -169,7 +169,7 @@ a {
   font-style: Bold;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
@@ -179,11 +179,11 @@ a {
   font-style: Bold;
   font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
 }
 .footer-text {
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
